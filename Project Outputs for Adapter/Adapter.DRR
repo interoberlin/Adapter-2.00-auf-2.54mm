@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------
-NCDrill File Report For: Adapter.PcbDoc   21.08.2015  15:00:49
+NCDrill File Report For: Adapter.PcbDoc   21.08.2015  17:00:09
 ---------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,10 +7,9 @@ ASCII RoundHoles File : Adapter.TXT
 
 Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
 ---------------------------------------------------------------------------
-T1        0.5mm (19.685mil)        Round          19               40.83 mm (1.61 Inch)
-T2        0.6mm (23.622mil)        Round          1                0.00 mm (0.00 Inch)
-T3        0.762mm (30mil)          Round          20               53.34 mm (2.10 Inch)
+T1        0.6mm (23.622mil)        Round          20               52.00 mm (2.05 Inch)
+T2        1mm (39.37mil)           Round          20               66.04 mm (2.60 Inch)
 ---------------------------------------------------------------------------
-Totals                                            40               94.17 mm (3.71 Inch)
+Totals                                            40               118.04 mm (4.65 Inch)
 
 Total Processing Time (hh:mm:ss) : 00:00:00
